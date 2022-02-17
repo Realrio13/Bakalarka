@@ -1,0 +1,12 @@
+{
+  "name": "bac-js",
+  "version": "0.0.0",
+  "description": "BacJs",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "@abandonware/noble": "^1.9.2-14"
+  }
+}
